@@ -1,0 +1,13 @@
+Online Course Analysis Dashboard  
+
+The Online Course Analysis Dashboard provides a comprehensive overview of online courses across various platforms, enabling users to evaluate and compare courses based on key attributes such as category, instructors, ratings, duration, and skills covered.  
+
+ Key Features:  
+- Course Overview: Displays course titles, short introductions, and URLs for easy navigation.  
+- Categorization: Courses are classified into categories (e.g., Data Science, Business) and subcategories (e.g., Machine Learning, Data Analysis).  
+- Course Type & Language: Identifies whether a course is a specialization or standalone and lists available languages and subtitles.  
+- Skills & Instructors: Highlights key skills taught and the industry experts leading each course.  
+- Ratings & Popularity: Shows course ratings and the number of enrolled viewers.  
+- Duration & Platform: Indicates the estimated completion time and the hosting platform (e.g., Coursera).  
+
+This dashboard is ideal for professionals, students, and businesses looking to upskill by selecting the best online courses based on real data.
